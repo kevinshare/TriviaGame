@@ -1,0 +1,66 @@
+body{
+	background-image: url("https://media.giphy.com/media/xTiN0HL2iq3oHF1852/source.gif");
+	background: cover;
+}
+h1{
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+	text-align: center;
+	margin: auto;
+	font-size: 50px;
+	color: #8B0000;
+	border: black;
+	border-width: 30px;
+	opacity: .9;
+	-webkit-text-stroke-width: 2px;
+   	-webkit-text-stroke-color: #8B0000;
+   	border-bottom: 5px solid #8B0000;
+}
+.container{
+	background-color: black;
+}
+label{
+	padding-left: 10%;
+	font-size: 20px;
+	color: white;
+}
+	
+
+
+p{
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy !important;
+	font-size: 50px !important;
+	font-weight: bold !important;
+	color: white;
+
+
+
+}
+.questions{
+	position: relative;
+	float: left;
+	background-color: black;
+
+}
+.panel{
+	opacity: .7;
+	background-color: black !important;
+}
+.jumbotron{
+
+	background-color: black !important;
+	width: 60%;
+}
+.header{
+	background-color: black;
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+	text-align: center;
+	margin: auto;
+	font-size: 100px;
+	color: #8B0000;
+	border: black;
+	border-width: 30px;
+	opacity: .9;
+	-webkit-text-stroke-width: 1px;
+   	-webkit-text-stroke-color: #F8F8FF;
+   	border-bottom: 5px solid #8B0000;
+}
